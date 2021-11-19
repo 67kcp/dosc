@@ -1,7 +1,16 @@
 # windows
 
-## 下载软件
+## 下载软件并安装
 
-下载链接：[<mark style="color:blue;">http://download.67kcp.ws/ooo/圆梦云加速器\_windows.exe</mark>](http://download.67kcp.ws/ooo/%E5%9C%86%E6%A2%A6%E4%BA%91%E5%8A%A0%E9%80%9F%E5%99%A8\_windows.exe)<mark style="color:blue;"></mark>
+下载链接：<mark style="color:blue;">https://download.67kcp.ws/ooo/圆梦云加速器\_windows.exe</mark>
 
 ## 安装
+
+![](../.gitbook/assets/E3ED%O1\(2OVB%2M7R1X26$Y.png)
+
+![](../.gitbook/assets/}2S%RU\`Y86R98IR0C\_AVUCV.png)
+
+## 安装完成后打开软件并登录
+
+![](<../.gitbook/assets/E(\_B{R%KL{G)ERMQB$\~3NYH (1).png>)
+
